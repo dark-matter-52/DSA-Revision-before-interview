@@ -1,0 +1,9 @@
+DSA Reevision sheet : https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/ 
+
+BINARY SEARCH (Important in respect to interview)  : This is applied when we have sorted arrays or there is contiguous selection of elements 
+1. When two sorted array : 
+https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1
+
+2. When the array is not sorted but there is contiguous selection of elements 
+https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/
