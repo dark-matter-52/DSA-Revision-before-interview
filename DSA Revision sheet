@@ -8,3 +8,9 @@ https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1
 
 2. When the array is not sorted but there is contiguous selection of elements 
 https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/
+
+
+DP + STRING (Most frequently ask kind of problems in test as well as interview)
+1. Longest Palindrome substring
+https://leetcode.com/problems/longest-palindromic-substring/
+
