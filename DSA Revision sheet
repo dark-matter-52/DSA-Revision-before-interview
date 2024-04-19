@@ -14,6 +14,9 @@ DP + STRING (Most frequently ask kind of problems in test as well as interview)
 1. Longest Palindrome substring
 https://leetcode.com/problems/longest-palindromic-substring/
 
+2. Minimum cost to cut a stick (different from rod cutting problem) - a different concept of recurssion is used here
+https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/
+
 GRAPH 
 0. Revise :
 - Indegree / outdegree concept
