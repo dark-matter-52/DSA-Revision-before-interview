@@ -15,6 +15,9 @@ DP + STRING (Most frequently ask kind of problems in test as well as interview)
 https://leetcode.com/problems/longest-palindromic-substring/
 
 GRAPH 
+0. Revise :
+- Indegree / outdegree concept
+- Traversal in BFS(queue) and DFS (recurssion/stack)
 1. Course Schedule 1
 https://leetcode.com/problems/course-schedule/description
 2. Course Schedule 2
