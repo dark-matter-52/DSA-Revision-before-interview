@@ -19,10 +19,13 @@ https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/
 
 GRAPH 
 0. Revise :
-- Indegree / outdegree concept
+- Indegree / outdegree concept : kahn's algo
 - Traversal in BFS(queue) and DFS (recurssion/stack)
-1. Course Schedule 1
+1. Topological Sort BFS : 
+https://www.naukri.com/code360/problems/982938?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTabValue=SUBMISSION
+2. Course Schedule 1
 https://leetcode.com/problems/course-schedule/description
-2. Course Schedule 2
+3. Course Schedule 2
 https://leetcode.com/problems/course-schedule-ii/description/ 
+
 
