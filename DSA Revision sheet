@@ -9,10 +9,14 @@ https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1
 2. When the array is not sorted but there is contiguous selection of elements 
 https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/
 
+3. Agressive cows == magnetic force between two balls
+https://leetcode.com/problems/magnetic-force-between-two-balls/description/
+
 
 DP + STRING (Most frequently ask kind of problems in test as well as interview)
 1. Longest Palindrome substring
 https://leetcode.com/problems/longest-palindromic-substring/
+
 
 2. Minimum cost to cut a stick (different from rod cutting problem) - a different concept of recurssion is used here
 https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/
@@ -28,4 +32,11 @@ https://leetcode.com/problems/course-schedule/description
 3. Course Schedule 2
 https://leetcode.com/problems/course-schedule-ii/description/ 
 
+BINARY TREE
+
+1. Check if the Binary tree is height-balanced or not 
+https://leetcode.com/problems/balanced-binary-tree/description/
+
+2. LCA in Binary Tree 
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
 
