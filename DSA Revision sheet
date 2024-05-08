@@ -44,11 +44,20 @@ https://leetcode.com/problems/course-schedule-ii/description/
 https://leetcode.com/problems/satisfiability-of-equality-equations/description/
 
 ```
-BINARY TREE
+BINARY TREE 
 ```
 1. Check if the Binary tree is height-balanced or not 
 https://leetcode.com/problems/balanced-binary-tree/description/
 
 2. LCA in Binary Tree 
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+
+BINARY SEARCH TREE
+There are very limited BST problems which are asked in interview. Patterns are similar in every problem.
+
+1. Construct BST from preorder traversal  
+https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/ 
+
+2. Valid BST
+https://leetcode.com/problems/validate-binary-search-tree/description/
 
