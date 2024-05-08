@@ -1,7 +1,11 @@
+```
 DSA Reevision sheet : 
+```
 https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/ 
 
+```
 BINARY SEARCH (Important in respect to interview)  : This is applied when we have sorted arrays or there is contiguous selection of elements 
+```
 1. When two sorted array : 
 https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1
@@ -12,8 +16,9 @@ https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/
 3. Agressive cows == magnetic force between two balls
 https://leetcode.com/problems/magnetic-force-between-two-balls/description/
 
-
+```
 DP + STRING (Most frequently ask kind of problems in test as well as interview)
+```
 1. Longest Palindrome substring
 https://leetcode.com/problems/longest-palindromic-substring/
 
@@ -23,11 +28,12 @@ https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/
 3. Word Break 
 https://leetcode.com/problems/word-break/
 
-
+```
 GRAPH 
 0. Revise :
 - Indegree / outdegree concept : kahn's algo
 - Traversal in BFS(queue) and DFS (recurssion/stack)
+```
 1. Topological Sort BFS : 
 https://www.naukri.com/code360/problems/982938?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTabValue=SUBMISSION
 2. Course Schedule 1
@@ -37,9 +43,9 @@ https://leetcode.com/problems/course-schedule-ii/description/
 4. DSU (Disjoint set union)
 https://leetcode.com/problems/satisfiability-of-equality-equations/description/
 
-
+```
 BINARY TREE
-
+```
 1. Check if the Binary tree is height-balanced or not 
 https://leetcode.com/problems/balanced-binary-tree/description/
 
